@@ -1,0 +1,16 @@
+{
+  "name": "figma-plugin-pages",
+  "id": "1297967859776545798",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
