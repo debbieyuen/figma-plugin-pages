@@ -1,5 +1,5 @@
 {
-  "name": "figma-plugin-pages",
+  "name": "pages-plugin",
   "version": "1.0.0",
   "description": "Your Figma Plugin",
   "main": "code.js",
@@ -10,13 +10,10 @@
   "author": "",
   "license": "",
   "devDependencies": {
-    "@figma/plugin-typings": "*",
-    "typescript": "^5.2.2"
+    "@figma/plugin-typings": "^1.79.0",
+    "typescript": "*"
   },
   "dependencies": {
-    "figma-plugin-ds": "^1.0.1",
-    "ts-loader": "^9.5.0",
-    "webpack": "^5.89.0",
-    "webpack-cli": "^5.1.4"
+    "figma-plugin-ds": "^1.0.1"
   }
 }

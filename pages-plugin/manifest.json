@@ -1,6 +1,6 @@
 {
-  "name": "figma-plugin-pages",
-  "id": "1297967859776545798",
+  "name": "pages-plugin",
+  "id": "1297998826136060986",
   "api": "1.0.0",
   "main": "code.js",
   "capabilities": [],
